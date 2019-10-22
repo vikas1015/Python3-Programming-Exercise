@@ -39,3 +39,5 @@ x*y
 (x,y) = tuple
 
 f()
+
+Imp Note: Blocks & Scope doesn't define the life of a variable.
