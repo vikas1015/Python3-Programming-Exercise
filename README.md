@@ -41,3 +41,13 @@ x*y
 f()
 
 Imp Note: Blocks & Scope doesn't define the life of a variable.
+
+Imp Note: 
+
+"Tuple" is immutable
+
+"List" is mutable
+
+"Dictionary" is a searchable sequence of key value pair and dictionaries are mutable
+
+"Set"
