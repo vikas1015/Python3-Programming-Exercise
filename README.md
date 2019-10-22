@@ -29,3 +29,13 @@ This is the beginning line to interpret the python
 #!/usr/local/bin/python3
 
 (Macs are based on BSD Unix so, above line only used in Linux/Unix based systems)
+
+*Expressions:*
+
+x=y
+
+x*y
+
+(x,y) = tuple
+
+f()
