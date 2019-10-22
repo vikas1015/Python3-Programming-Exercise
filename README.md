@@ -11,3 +11,5 @@ Simple is better than complex
 Complex is better than complicated
 
 Readability counts.
+
+Use "import this" in any python interpreter to view the complete list of python philosophies.
