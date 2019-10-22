@@ -20,3 +20,4 @@ In Python3:
 3. Print is a function
 4. One integer type
 5. All text is now unicode
+6. Python 3 is ten years old
